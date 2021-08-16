@@ -1,4 +1,4 @@
-# flash_chat_test
+# Flash Chat
 
 A new Flutter application.
 
