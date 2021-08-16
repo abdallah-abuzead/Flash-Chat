@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105972928947",
+    "project_id": "flash-chat-test-ef509",
+    "storage_bucket": "flash-chat-test-ef509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105972928947:android:af40106c1050f442f07bc6",
+        "android_client_info": {
+          "package_name": "com.abuzead.flash_chat_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105972928947-j7jln773ok7gccrv3htaapkpib2i7pug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDWix-Ho0CbYuOqIzpQ0cjBcfy10FlCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105972928947-j7jln773ok7gccrv3htaapkpib2i7pug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
